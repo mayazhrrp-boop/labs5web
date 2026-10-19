@@ -1,0 +1,43 @@
+
+# LAPORAN PRAKTIKUM 5
+## Pemrograman Web - JavaScript Dasar
+
+### Identitas Mahasiswa
+- **Nama:** Maya Zahra Priyanti
+- **NIM:** 312510269
+- **Kelas:** I251C
+- **Program Studi:** Informatika
+- **Fakultas:** Teknik
+- **Universitas:** Universitas Pelita Bangsa
+
+### Deskripsi
+Praktikum 5 membahas penggunaan JavaScript untuk membuat halaman web menjadi interaktif. Praktikum ini menggunakan HTML sebagai struktur halaman dan JavaScript untuk mengolah input serta menjalankan fungsi tertentu.
+
+### Materi Praktikum
+1. Menampilkan pesan menggunakan `console.log()`.
+2. Input nama pengguna menggunakan `prompt()` dan `alert()`.
+3. Operasi aritmatika.
+4. Percabangan `if-else`.
+5. Percabangan `switch-case`.
+6. Pemeriksaan bilangan genap dan ganjil.
+7. Mengubah warna latar halaman.
+8. Menghitung total harga menu.
+9. Mini project kalkulator nilai mahasiswa.
+10. Eksperimen mandiri, meliputi tabel perkalian 7, validasi form, dan menampilkan atau menyembunyikan elemen HTML.
+
+### Struktur File
+- `index.html` — Berisi struktur halaman web dan elemen HTML.
+- `script.js` — Berisi kode JavaScript untuk menjalankan fungsi praktikum.
+
+### Cara Menjalankan
+1. Buka folder praktikum di Visual Studio Code.
+2. Pastikan file `index.html` dan `script.js` berada dalam folder yang sama.
+3. Simpan semua file.
+4. Buka `index.html` menggunakan browser.
+5. Coba tombol dan input yang tersedia untuk menguji fungsi JavaScript.
+
+### Tujuan Praktikum
+Memahami dasar-dasar JavaScript, penggunaan variabel, operator, percabangan, fungsi, manipulasi elemen HTML, serta penerapannya dalam pembuatan halaman web interaktif.
+
+### Kesimpulan
+Praktikum ini membantu memahami cara menggunakan JavaScript untuk mengolah input pengguna, melakukan perhitungan, memeriksa kondisi, mengubah tampilan halaman, dan membuat fitur web sederhana.
